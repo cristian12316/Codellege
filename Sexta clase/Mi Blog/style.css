@@ -1,0 +1,59 @@
+
+body {
+    background-color: #242f44;
+  color: white;
+    font-family: 'Oswald', sans-serif;
+}
+
+nav{
+    font-family:cursive;
+}
+
+
+header{
+  background-color:withe;
+}
+
+
+section {
+  font-size:18px; 
+}
+
+article {
+  font-size:17px;
+}
+
+aside{
+    position: absolute;
+  left: 750px;
+  top: 420px;
+}
+
+
+footer h3 {
+    display: inline-block;
+    font-size: 30px;
+    color:white;
+}
+
+#link-h1{
+    background-color: black; height: auto; width:90px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
