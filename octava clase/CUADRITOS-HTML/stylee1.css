@@ -1,0 +1,36 @@
+    /*text*/ 
+*{
+    text-align: center;
+    color:white;
+}
+
+    /*position*/
+#tercero{
+    position: relative;
+    bottom: 88px;
+}
+    
+    /*Decoration-of-blocks*/
+#primero{
+    margin: 118px 0px 0 590px;
+    display: block;
+    background-color:red;
+    padding: 35px;
+    width: 60px;
+}
+
+#segundo{
+    margin: 0 0px 0 530px;
+    display: block;
+    background-color:yellow;
+    padding: 35px;
+    width: 60px;
+}
+
+#tercero{
+    margin: 0 0px 0 655px;
+    display: block;
+    background-color:blue;
+    padding: 19px;
+    width: 78px;
+}
